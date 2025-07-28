@@ -64,6 +64,6 @@ For a detailed explanation of the system design, implementation, performance ana
 # Ethical Considerations
 Emotion detection systems must be used responsibly, considering the following:
 
-# Privacy Concerns: Ensure that user-uploaded images are not stored or shared without user consent. Images should only be processed temporarily and discarded after use.
-Bias in Emotion Detection: The FER-2013 dataset may not be fully representative of all demographics. The system may exhibit bias in emotion classification for certain age groups, genders, or ethnicities. It is crucial to mitigate such biases by using more diverse datasets and fair training practices.
-Misuse Potential: Emotion detection can be misused in surveillance or for manipulating users emotionally. Ethical guidelines should be followed to ensure the technology is used responsibly.
+1. Privacy Concerns: Ensure that user-uploaded images are not stored or shared without user consent. Images should only be processed temporarily and discarded after use.
+2. Bias in Emotion Detection: The FER-2013 dataset may not be fully representative of all demographics. The system may exhibit bias in emotion classification for certain age groups, genders, or ethnicities. It is crucial to mitigate such biases by using more diverse datasets and fair training practices.
+3. Misuse Potential: Emotion detection can be misused in surveillance or for manipulating users emotionally. Ethical guidelines should be followed to ensure the technology is used responsibly.
