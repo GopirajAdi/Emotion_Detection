@@ -1,4 +1,4 @@
-Emotion Detection from Uploaded Images
+# Emotion Detection from Uploaded Images
 This project aims to develop a Streamlit-based web application that enables users to upload images and accurately detect and classify the emotion in the image using Convolutional Neural Networks (CNNs). The application is designed to be user-friendly and responsive, providing real-time results for emotion detection.
 
 Table of Contents
